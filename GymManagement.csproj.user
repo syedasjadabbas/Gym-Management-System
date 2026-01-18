@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ABDUL REHMAN\source\repos\GymManagement\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Add_cls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Trainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Class_name.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="First_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Measurements.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Member_form.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Package_maker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Members.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Payment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Purchase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Restore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sales.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Store.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Starting_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
