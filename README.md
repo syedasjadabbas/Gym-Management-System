@@ -1,7 +1,7 @@
 # Gym Management System
 
 <p align="center">
-  <img src="assets/banner.png" alt="Gym Management System Banner" />
+  <img src="assets/Screenshot 2026-06-12 061326.png" alt="Gym Management System Banner" />
 </p>
 
 Business-oriented gym management platform built with C# and .NET focused on membership operations, attendance tracking, subscription workflows, and administrative management.
