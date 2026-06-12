@@ -81,21 +81,6 @@ SQL Database System
 
 ## Screenshots
 
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Member Management
-
-![Members](screenshots/members.png)
-
-### Attendance Tracking
-
-![Attendance](screenshots/attendance.png)
-
-### Subscription Management
-
-![Subscriptions](screenshots/subscriptions.png)
 
 ## Installation
 
