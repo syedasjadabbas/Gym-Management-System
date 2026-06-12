@@ -1,47 +1,150 @@
-Gym Management System
-Overview
+# Gym Management System
 
-Gym Management System is a DBMS-based application developed to manage gym operations such as member records, memberships, payments, and staff information. The system is built using C# with a relational database backend and demonstrates core Database Systems concepts.
+<p align="center">
+  <img src="assets/banner.png" alt="Gym Management System Banner" />
+</p>
 
-Technologies Used
+Business-oriented gym management platform built with C# and .NET focused on membership operations, attendance tracking, subscription workflows, and administrative management.
 
-Language: C#
+## Overview
 
-DBMS: SQL Server
+Gym Management System is a desktop-based business management application designed to streamline gym operations through centralized member management, attendance monitoring, subscription handling, and operational dashboards.
 
-IDE: Visual Studio
+The system focuses on maintainable architecture, structured workflows, and efficient administrative operations for fitness businesses.
 
-Database Concepts: ER Diagram, Normalization, SQL Queries, CRUD Operations
+## Features
 
-Features
+### Member Management
 
-Member registration and management
+* Member registration and profile management
+* Membership status tracking
+* Search and filtering workflows
+* Secure member data organization
 
-Membership plans handling
+### Attendance Tracking
 
-Payment and fee records
+* Automated attendance workflows
+* Daily attendance monitoring
+* Attendance history records
+* Operational tracking dashboard
 
-Staff and trainer data management
+### Subscription & Billing
 
-Database-driven operations using SQL
+* Membership subscription handling
+* Billing management workflows
+* Payment tracking system
+* Membership renewal management
 
-Project Structure
+### Administrative Dashboard
 
-C# source files (.cs)
+* Centralized operational dashboard
+* Member activity overview
+* Subscription analytics
+* System management workflows
 
-Solution file (.sln)
+## Engineering Highlights
 
-Project file (.csproj)
+* Modular business management workflows
+* Structured member data handling
+* Maintainable desktop application architecture
+* Operational dashboard organization
+* Role-oriented administrative workflows
+* Optimized attendance and subscription management
 
-SQL scripts (if included)
+## Tech Stack
 
-Documentation files
+### Application Development
 
-How to Run
+* C#
+* .NET Framework
 
-Clone the repository:
+### Database
 
+* SQL Database System
+
+### Tools
+
+* Visual Studio
+* Git & GitHub
+
+## Architecture
+
+```text id="e7q7b0"
+Desktop Interface
+       ↓
+Business Logic Layer
+       ↓
+Authentication & Operations
+       ↓
+SQL Database System
+```
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Member Management
+
+![Members](screenshots/members.png)
+
+### Attendance Tracking
+
+![Attendance](screenshots/attendance.png)
+
+### Subscription Management
+
+![Subscriptions](screenshots/subscriptions.png)
+
+## Installation
+
+### Clone Repository
+
+```bash id="2fdmbj"
 git clone https://github.com/syedasjadabbas/Gym-Management-System.git
+```
 
+### Open Project
 
-Open the solution file (.sln) in Visual Studio.
+```bash id="jlwmld"
+Open solution file in Visual Studio
+```
+
+### Configure Database
+
+* Setup SQL database connection
+* Update connection string
+* Run database initialization scripts
+
+### Run Application
+
+```bash id="k2m3m8"
+Build and run the project from Visual Studio
+```
+
+## Project Structure
+
+```text id="g4rjlwm"
+Gym-Management-System/
+├── UI/                     # Desktop interface
+├── BusinessLogic/          # Core application logic
+├── Database/               # Database operations
+├── Models/                 # Data models
+├── Utilities/              # Helper utilities
+└── README.md
+```
+
+## Future Improvements
+
+* Advanced analytics dashboard
+* Cloud synchronization
+* QR-based attendance system
+* Automated notification workflows
+* Role-based authentication enhancements
+
+## Author
+
+SYED ASJAD ABBAS
+
+GitHub: @syedasjadabbas
