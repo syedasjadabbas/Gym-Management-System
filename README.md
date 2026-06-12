@@ -8,7 +8,7 @@ Business-oriented gym management platform built with C# and .NET focused on memb
 
 ## Overview
 
-Gym Management System is a desktop-based business management application designed to streamline gym operations through centralized member management, attendance monitoring, subscription handling, and operational dashboards.
+Gym Management System is a desktop-based business management application designed to streamline gym operations through centralized member management, attendance monitoring, subscription handling, and administrative operations.
 
 The system focuses on maintainable architecture, structured workflows, and efficient administrative operations for fitness businesses.
 
@@ -81,6 +81,11 @@ SQL Database System
 
 ## Screenshots
 
+![Screenshot 1](assets/1.jpg)
+![Screenshot 2](assets/2.jpg)
+![Screenshot 3](assets/3.jpg)
+![Screenshot 4](assets/4.jpg)
+![Screenshot 5](assets/5.jpg)
 
 ## Installation
 
